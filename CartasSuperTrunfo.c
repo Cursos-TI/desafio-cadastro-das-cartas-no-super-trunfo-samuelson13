@@ -7,7 +7,12 @@
 //Teste larissa
 
 int main() {
-    // Sugestão: Defina variáveis separadas para cada atributo da cidade.
+
+   printf("  Carta 1:\n\nEstado: A\nCódigo: A01\nNome da Cidade: São Paulo \nPopulação: 12325000 \nÁrea: 1521.11 km² \nPIB: 699.28 bilhões de reais\n Número de Pontos Turísticos: 50");
+    
+   
+   
+   // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
     // Cadastro das Cartas:
