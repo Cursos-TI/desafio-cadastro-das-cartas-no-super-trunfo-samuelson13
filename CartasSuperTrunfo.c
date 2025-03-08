@@ -8,7 +8,10 @@
 
 int main() {
 
-   printf("  Carta 1:\n\nEstado: A\nCódigo: A01\nNome da Cidade: São Paulo \nPopulação: 12325000\nÁrea: 1521.11 km \nPIB: 699.28 bilhões de reais\nNúmero de Pontos Turísticos: 50\n\n");
+   printf("  Carta 1:\n\nEstado: A\nCódigo: A01\n");
+   printf("Nome da Cidade: São Paulo \nPopulação: 12325000\n");
+   printf("Área: 1521.11 km \nPIB: 699.28 bilhões de reais\n");
+   printf("Número de Pontos Turísticos: 50\n\n");
   
    printf(" Carta 2:\n\nEstado: B\nCódigo: A02\nNome da Cidade: Rio de Janeiro\nPopulação: 12345600\nÁrea: 1521.12 Km\nPIB: 699.29 bilhões de reais\nNúmero de Pontos turisdticos 51");
    
