@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Estado: Uma letra de 'A' a 'B' (representando um dos oito estados). Tipo: char
+//Estado: Uma letra de 'A' a 'B' (representando o estados). Tipo: char
  
 //Código da Carta: A letra do estado (ex: A01, B03). Tipo: char[]
  
@@ -46,16 +46,16 @@ int main() {
      scanf("%d", &Pib);
        printf("O PIB é: %d\n", Pib);
     printf("Digite o número de pontos turísticos:\n");
-        scanf("%d", &NumeroDePontosTuristicos);
-        printf("O número de pontos turísticos é: %d\n", NumeroDePontosTuristicos);  
- printf("O estado escolhido foi: %c\n", estado1);
- printf("O outro estado é: %c\n", estado2);
- printf("O codigo de catalogação é: %s\n",codigoCarta);
- printf("O nome da cidade é: %s\n",nomeDaCidade);
- printf("A população é: %f\n", População);
- printf("A área é: %f\n", area);
- printf("O PIB é: %d\n", Pib);
- printf("O número de pontos turísticos é: %d\n", NumeroDePontosTuristicos); 
+     scanf("%d", &NumeroDePontosTuristicos);
+       printf("O número de pontos turísticos é: %d\n", NumeroDePontosTuristicos);  
+  printf("O estado escolhido foi: %c\n", estado1);
+  printf("O outro estado é: %c\n", estado2);
+  printf("O codigo de catalogação é: %s\n",codigoCarta);
+  printf("O nome da cidade é: %s\n",nomeDaCidade);
+  printf("A população é: %f\n", População);
+  printf("A área é: %f\n", area);
+  printf("O PIB é: %d\n", Pib);
+  printf("O número de pontos turísticos é: %d\n", NumeroDePontosTuristicos); 
 
     return 0;
 }
