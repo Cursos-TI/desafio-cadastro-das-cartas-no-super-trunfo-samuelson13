@@ -13,8 +13,10 @@
  
 //Número de Pontos Turísticos: A quantidade de pontos turísticos na cidade. Tipo: int
 
+    // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
+    // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
 
-#include <stdio.h>
+    #include <stdio.h>
  
 int main() {
     char estado1 = 'A';
